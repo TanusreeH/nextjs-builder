@@ -29,6 +29,10 @@
         {
           "link": "/about-us",
           "title": "About us"
+        },
+        {
+          "link": "/info-page",
+          "title": "Info"
         }
       ]
     },
