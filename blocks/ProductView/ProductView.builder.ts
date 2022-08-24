@@ -44,6 +44,12 @@ restrictedRegister(
         helperText: 'Override product description from swell',
       },
       {
+        name: 'slug',
+        richText: true,
+        type: 'html',
+        helperText: 'product slug from swell',
+      },
+      {
         name: 'title',
         type: 'text',
         helperText: 'Override product title from swell',
